@@ -1,4 +1,5 @@
 <!-- ZGGHU6Q94E79XJRQ34TAY1CHM4HQ9JIK -->
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dominic248/arduino-fingerprint-door-lock-system@github)](https://gitads.dev/v1/ad-track?source=dominic248/arduino-fingerprint-door-lock-system@github)
 
 ---
 
